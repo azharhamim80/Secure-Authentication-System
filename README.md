@@ -2,7 +2,7 @@
 
 A robust, full-stack secure authentication system featuring role-based access control (RBAC), security best practices, and a beautiful responsive user interface.
 
-## 🚀 Features
+##  Features
 
 ### **Backend (Express & Prisma)**
 
@@ -22,7 +22,7 @@ A robust, full-stack secure authentication system featuring role-based access co
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 ├── client/                 # Next.js Front-end Application
@@ -124,7 +124,7 @@ Now, open [http://localhost:3000](http://localhost:3000) in your browser to see 
 
 ---
 
-## 🔒 Security Best Practices Implemented
+##  Security Best Practices Implemented
 
 - **Password Hashing:** Utilizing `bcrypt` with high work factors to secure user credentials.
 - **Secure Token Handling:** Secure cookies / authorization headers for credential transmission.
@@ -133,19 +133,3 @@ Now, open [http://localhost:3000](http://localhost:3000) in your browser to see 
 - **Input Sanitization:** Middleware schemas checking email, password constraints, and invalid characters.
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or improvements:
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
